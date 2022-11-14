@@ -1,0 +1,158 @@
+
+
+
+
+
+
+
+body {
+	background-image: url(../pics/blackbg4.jpg);
+}
+
+#wrapper {
+	margin: auto;
+	width: 1025px;
+	padding: 10px;
+	background-image: url(../pics/whitebg5.jpg);
+	background-size: 4000px;
+	background-repeat: no-repeat;
+	
+}
+#banner{
+	background-image: url(../pics/banner.jpg);
+	background-repeat: no-repeat;
+	width: 1024px;
+	height: 256px
+}
+#logo{
+    background-image: url(../pics/logo.png);
+	background-repeat:fixed;
+	width: 218px;
+	height: 199px;
+
+
+}
+
+#navigator {
+	background-color: #DCDCDC;
+	width: 1025px;
+	height: 50px;
+}
+
+#navigator a{
+	float: left;
+	display: block;
+	color: red;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+#navigator a:hover {
+	background-color: #ddd;
+	color: black;
+}
+
+.ADIDAS {
+	display: inline-block;
+	width: 230px;
+	height: 210px;
+	margin: 0;
+	padding: 5;
+	border: 0;
+}	
+
+#Yzy {
+	background-image: url(../pics/yzy.png);
+	background-repeat: no-repeat;
+}
+
+#WR {
+	background-image: url(../pics/wr.png);
+	background-repeat: no-repeat;
+}
+
+#V2 {
+	background-image: url(../pics/static.png);
+	background-repeat: no-repeat;
+}
+
+#YZ500{
+	background-image: url(../pics/500.png);
+	background-repeat: no-repeat;
+}
+
+.details {
+	display: inline-block;
+	width: 230px;
+	height: 450px;
+	margin: 0;
+	padding: 3;
+	border: 0;
+}
+
+#detail1 {
+	background-color: #DCDCDC;
+}
+
+#detail2 {
+	background-color: #DCDCDC;
+}
+
+#detail3 {
+	background-color: #DCDCDC;
+}
+
+#detail4 {
+	background-color: #DCDCDC;
+}
+
+p{
+	float: left;
+	margin-left: 10px;
+	font-family: Lucida Fax;
+	color: black;
+}
+
+h1{
+	font-family:Bell MT ;
+	font-size: 140%;
+	text-align:center;
+	color:#664229;
+	
+}
+
+#footer {
+	background-image: url(../pics/footer1.jpg);
+	background-repeat: norepeat;
+	width: 989px;
+	height: 50px;
+	padding: 20px;
+	text-align: center;
+}
+.recommended{
+  background-image: url(../pics/thumbs.png);
+  position: fixed;
+  width: 300px;
+  height: 285px;
+  bottom: 0;
+  right: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

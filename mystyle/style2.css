@@ -1,0 +1,134 @@
+
+
+
+
+
+body {
+	background-image: url(../pics/blackbg2.jpg);
+}
+
+#wrapper {
+	margin: auto;
+	width: 1025px;
+	padding: 10px;
+	background-image: url(../pics/white4.jpg);
+	background-size: 3000px;
+	background-repeat: no-repeat;
+	
+}
+#banner{
+	background-image: url(../pics/jordan.jpg);
+	background-repeat: no-repeat;
+	width: 1024px;
+	height: 256px
+}
+#logo{
+    background-image: url(../pics/logo.png);
+	background-repeat:fixed;
+	width: 218px;
+	height: 199px;
+
+
+}
+
+	
+.jordan {
+	display: inline-block;
+	width: 235px;
+	height: 210px;
+	margin: 0;
+	padding: 5;
+	border: 0;
+}	
+
+#jordan4 {
+	background-image: url(../pics/jordan4.png);
+	background-repeat: no-repeat;
+}
+
+#j1Breds {
+	background-image: url(../pics/j1b.png);
+	background-repeat: no-repeat;
+}
+
+#j6 {
+	background-image: url(../pics/j6.png);
+	background-repeat: no-repeat;
+}
+
+#j1BT {
+	background-image: url(../pics/j1bt.png);
+	background-repeat: no-repeat;
+}
+	
+.details {
+	display: inline-block;
+	width: 230px;
+	height: 450px;
+	margin: 0;
+	padding: 3;
+	border: 0;
+}
+
+#detail1 {
+	background-color: #DCDCDC;
+}
+
+#detail2 {
+	background-color: #DCDCDC;
+}
+
+#detail3 {
+	background-color: #DCDCDC;
+}
+
+#detail4 {
+	background-color: #DCDCDC;
+}
+	
+p{
+	float: left;
+	margin-left: 10px;
+	font-family: Lucida Fax;
+	color: black;
+}
+
+h1{
+	font-family:Bell MT ;
+	font-size: 150%;
+	text-align:center;
+	color:#664229;
+	
+}
+
+#footer {
+	background-image: url(../pics/footer1.jpg);
+	background-repeat: norepeat;
+	width: 989px;
+	height: 50px;
+	padding: 20px;
+	text-align: center;
+}
+.recommended{
+  background-image: url(../pics/thumbs.png);
+  position: fixed;
+  width: 300px;
+  height: 285px;
+  bottom: 0;
+  right: 0;
+}
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
